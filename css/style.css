@@ -1,0 +1,26 @@
+.signin{background:rgba(44,62,80,0.7);padding:40px;width:320px;margin:auto;height:400px;border:1px solid white;}
+.signin form{width:240px;text-align:center;}
+.signin input[type=text]{width:240px;text-align:center;background:transparent;border:none;border-bottom:1px solid #fff;font-family: 'Play', sans-serif;font-size:16px;
+font-weight:200px;padding:10px 0;transition:border 0.5s;outline:none;color:#fff;}
+.signin input[type=password]{width:240px;text-align:center;background:transparent;border:none;border-bottom:1px solid #fff;font-family: 'Play', sans-serif;font-size:16px;
+font-weight:200px;padding:10px 0;transition:border 0.5s;outline:none;color:#fff;}
+.signin input[type=button]{border:none;width:190px;background:white;color:#000;font-size:16px;line-height:25px;padding:10px 0;border-radius:15px;cursor:pointer;}
+.signin input[type=button]:hover{color:#fff;background-color:black;}
+.signin h2{color:white;}
+.signin a{color:yellow;text-decoration:blink;}
+.signin a:hover{color:skyblue;}
+.container{display:flex;flex-direction:row;width:100%;}
+::placeholder{color:aliceblue;opacity:0.8;}
+.signup{background:rgba(44,62,80,0.7);padding:40px;width:320px;margin:auto;margin-top:80px;height:750px;margin-bottom:80px;margin:0 auto;border:1px solid white;}
+.signup form{width:240px;text-align:center;}
+.signup input[type=text]{width:240px;text-align:center;background:transparent;border:none;border-bottom:1px solid #fff;font-family: 'Play', sans-serif;font-size:16px;
+font-weight:200px;padding:10px 0;transition:border 0.5s;outline:none;color:#fff;}
+.signup input[type=password]{width:240px;text-align:center;background:transparent;border:none;border-bottom:1px solid #fff;font-family: 'Play', sans-serif;font-size:16px;
+font-weight:200px;padding:10px 0;transition:border 0.5s;outline:none;color:#fff;}
+.signup input[type=button]{border:none;width:190px;background:white;color:#000;font-size:16px;line-height:25px;padding:10px 0;border-radius:15px;cursor:pointer;}
+.signup input[type=button]:hover{color:#fff;background-color:black;}
+.signup h2{color:white;}
+.signup a{color:yellow;text-decoration:blink;}
+.signup a:hover{color:skyblue;}
+.container{display:flex;flex-direction:row;width:100%;}
+::placeholder{color:aliceblue;opacity:0.8;}
